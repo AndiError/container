@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-eina-03: "Eina 03";
+
+  /* Colors */
+  --light-grey-2: #f9fafb;
+  --dark: #131318;
+
+  /* Paddings */
+  --padding-28xl: 47px;
+  --padding-11xl: 30px;
+}
